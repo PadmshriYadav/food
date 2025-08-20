@@ -1,0 +1,5 @@
+# Ignore Node.js dependencies
+/node_modules
+
+# Ignore build output folder if you have one
+/dist
